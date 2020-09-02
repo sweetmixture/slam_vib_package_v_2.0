@@ -1,0 +1,106 @@
+mv: cannot stat ‘geo.txt’: No such file or directory
+mv: cannot stat ‘geo.txt’: No such file or directory
+mv: cannot stat ‘geo.txt’: No such file or directory
+mv: cannot stat ‘geo.txt.1_0.0025+x’: No such file or directory
+mv: cannot stat ‘geo.txt.1_0.0025+x’mv: cannot stat ‘geo.txt.1_0.0025+x’: No such file or directory
+: No such file or directory
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+gsl: init_source.c:29: ERROR: matrix dimension n1 must be positive integer
+Default GSL error handler invoked.
+rm: cannot remove ‘geo.txt.next’: No such file or directory
+rm: cannot remove ‘geo.txt.next’: No such file or directory
+rm: cannot remove ‘geo.txt.next’: No such file or directory
+mv: cannot stat ‘geo.txt’mv: cannot stat ‘geo.txt’: No such file or directory
+mv: cannot stat ‘geo.txt’: No such file or directory
+: No such file or directory
+/home/uccawkj/src_tool/SLAM/slam_vib_package_v_2.2/slam_vib.auto_geo_gen.sh: line 246: -1: substring expression < 0
+/home/uccawkj/src_tool/SLAM/slam_vib_package_v_2.2/slam_vib.auto_geo_gen.sh: line 246: -1: substring expression < 0
+/home/uccawkj/src_tool/SLAM/slam_vib_package_v_2.2/slam_vib.auto_geo_gen.sh: line 246: -1: substring expression < 0
+/home/uccawkj/src_tool/SLAM/slam_vib_package_v_2.2/slam_vib.auto_geo_gen.sh: line 246: -1: substring expression < 0
+mv: cannot stat ‘geo.txt.org’: No such file or directory
+mv: cannot stat ‘geo.txt.org’: No such file or directory
+mv: cannot stat ‘geo.txt.org’: No such file or directory
+(standard_in) 1: syntax error
+(standard_in) 1: syntax error
+(standard_in) 1: syntax error
+(standard_in) 1: syntax error
+  File "/home/uccawkj/src_tool/SLAM/slam_vib_package_v_2.2/slam_vib.diagonaliser.py", line 433
+    print(" Calculation is finished : ",end="");	print (now.strftime("%Y-%m-%d %H:%M:%S"))
+                                           ^
+SyntaxError: invalid syntax
+  File "/home/uccawkj/src_tool/SLAM/slam_vib_package_v_2.2/slam_vib.diagonaliser.py", line 433
+    print(" Calculation is finished : ",end="");	print (now.strftime("%Y-%m-%d %H:%M:%S"))
+                                           ^
+SyntaxError: invalid syntax
+  File "/home/uccawkj/src_tool/SLAM/slam_vib_package_v_2.2/slam_vib.diagonaliser.py", line 433
+    print(" Calculation is finished : ",end="");	print (now.strftime("%Y-%m-%d %H:%M:%S"))
+                                           ^
+SyntaxError: invalid syntax
+  File "/home/uccawkj/src_tool/SLAM/slam_vib_package_v_2.2/slam_vib.diagonaliser.py", line 433
+    print(" Calculation is finished : ",end="");	print (now.strftime("%Y-%m-%d %H:%M:%S"))
+                                           ^
+SyntaxError: invalid syntax
+mkdir: cannot create directory ‘tmp’: File exists
+mkdir: cannot create directory ‘tmp’: File exists
+mkdir: cannot create directory ‘tmp’: File exists
+mkdir: cannot create directory ‘fdm’: File exists
+mkdir: cannot create directory ‘fdm’: File exists
+mkdir: cannot create directory ‘fdm’: File exists
+mkdir: cannot create directory ‘hess’: File exists
+mkdir: cannot create directory ‘hess’: File exists
+mkdir: cannot create directory ‘hess’: File exists
+mv: cannot stat ‘geo.txt.1_0.0025+x’mv: cannot stat ‘geo.txt.1_0.0025+x’: No such file or directory
+: No such file or directory
+mv: cannot stat ‘geo.txt.1_0.0025+x’mv: cannot stat ‘geo.txt.1_0.0025+x.out’: No such file or directory
+mv: cannot stat ‘geo.txt.1_0.0025+x.out’: No such file or directory
+: No such file or directory
+mv: cannot stat ‘geo.txt.1_0.0025+x.out’: No such file or directory
+mv: cannot stat ‘atom_*’: No such file or directory
+mv: cannot stat ‘atom_*’: No such file or directory
+mv: cannot stat ‘atom_*’: No such file or directory
+mv: cannot stat ‘atom_*’: No such file or directory
+mv: cannot stat ‘*hessian.dat’: No such file or directory
+mv: cannot stat ‘*hessian.dat’: No such file or directory
+mv: cannot stat ‘*hessian.dat’: No such file or directory
+mv: cannot stat ‘*hessian.dat’: No such file or directory
+mkdir: cannot create directory ‘final’: File exists
+mkdir: cannot create directory ‘final’: File exists
+mkdir: cannot create directory ‘final’: File exists
+mv: cannot stat ‘tmp’: No such file or directory
+mv: cannot stat ‘tmp’: No such file or directory
+mv: cannot stat ‘tmp’: No such file or directory
+mv: cannot stat ‘fdm’: No such file or directory
+mv: cannot stat ‘fdm’: No such file or directory
+mv: cannot stat ‘fdm’: No such file or directory
+mv: cannot stat ‘hess’: No such file or directory
+mv: cannot stat ‘hess’: No such file or directory
+mv: cannot stat ‘hess’: No such file or directory
